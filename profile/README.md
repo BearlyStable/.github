@@ -17,7 +17,7 @@ Built to run with no fuss: standard-library-first, Kali-friendly, and honest in 
 | [**scanner**](https://github.com/BearlyStable/scanner) (`tcpsweep`) | Dependency-free, single-file TCP connect sweeper — an `nc -z`-style port sweep with CIDR/range targets, threading, rate limiting, and `nmap`-style output formats. | Python |
 | [**smbex**](https://github.com/BearlyStable/smbex) | Ranger-style TUI file explorer for SMB, SSH/SFTP, and FTP/FTPS — built for slow, unreliable links, with listing caches, background downloads, and optional on-box filename translation. | Python |
 | [**scribe**](https://github.com/BearlyStable/scribe) | Local-only shell wrapper that documents an interactive remote-shell session as you work it. | Python |
-| [**Simple-ADExplorer**](https://github.com/BearlyStable/Simple-ADExplorer) | Lightweight viewer for Sysinternals ADExplorer snapshots and BOFHound output — browse Active Directory data without standing up the full stack. | JavaScript |
+| [**Simple-ADExplorer**](https://github.com/BearlyStable/Simple-ADExplorer) | Lightweight viewer for Sysinternals ADExplorer snapshots and BOFHound output — browse Active Directory data without standing up the full stack. | Python |
 | [**GPO-Explorer**](https://github.com/BearlyStable/GPO-Explorer) | Drop in a zip of Group Policy Objects and pull them apart fast — built with CTF-speed triage in mind. | Python |
 | [**tiny_helpers**](https://github.com/BearlyStable/tiny_helpers) | Grab-bag of small tools and configs for a more pleasant shell life. | Shell |
 
