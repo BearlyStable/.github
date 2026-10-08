@@ -19,7 +19,10 @@ Built to run with no fuss: standard-library-first, Kali-friendly, and honest in 
 | [**scribe**](https://github.com/BearlyStable/scribe) | Local-only shell wrapper that documents an interactive remote-shell session as you work it. | Python |
 | [**Simple-ADExplorer**](https://github.com/BearlyStable/Simple-ADExplorer) | Lightweight viewer for Sysinternals ADExplorer snapshots and BOFHound output — browse Active Directory data without standing up the full stack. | Python |
 | [**Simple-GPO-Explorer**](https://github.com/BearlyStable/Simple-GPO-Explorer) | Drop in a zip of Group Policy Objects and pull them apart fast — built with CTF-speed triage in mind. | Python |
+| [**SCTFCM**](https://github.com/BearlyStable/SCTFCM) | Local web scratchpad for CTF credentials — usernames, passwords, hashes, and context — with search operators, password/hash reuse detection, and Markdown/Hashcat export. No encryption, so local/lab use only. | Python/JS |
+| [**tmux-sessions**](https://github.com/BearlyStable/tmux-sessions) | Simple tmux session manager. | Python |
 | [**tiny_helpers**](https://github.com/BearlyStable/tiny_helpers) | Grab-bag of small tools and configs for a more pleasant shell life. | Shell |
+| [**vidsr**](https://github.com/BearlyStable/vidsr) | Multi-frame super-resolution for video — fuses many frames of one region (a plate, a sign, a badge) into one sharper image. Measurement-based, not generative. | Python |
 
 ## Philosophy
 
@@ -54,7 +57,7 @@ docker pull ghcr.io/bearlystable/gpo-explorer:latest
 
 ## License
 
-Repos are individually licensed — mostly **MIT**, with a couple under **GPL-3.0**. Check each repo for specifics.
+Repos are individually licensed — mostly **MIT**, with a couple under **GPL-3.0** and one under **AGPL-3.0**. Check each repo for specifics.
 
 ## A note on the code
 
