@@ -23,6 +23,8 @@ Built to run with no fuss: standard-library-first, Kali-friendly, and honest in 
 | [**tmux-sessions**](https://github.com/BearlyStable/tmux-sessions) | Simple tmux session manager. | Python |
 | [**tiny_helpers**](https://github.com/BearlyStable/tiny_helpers) | Grab-bag of small tools and configs for a more pleasant shell life. | Shell |
 | [**vidsr**](https://github.com/BearlyStable/vidsr) | Multi-frame super-resolution for video — fuses many frames of one region (a plate, a sign, a badge) into one sharper image. Measurement-based, not generative. | Python |
+| [**sshcatch**](https://github.com/LorenzMap/sshcatch) | Userland SSH/SFTP Server to catch (reverse) connections - never opens a shell. | Python |
+| [**socksscope**](https://github.com/LorenzMap/socksscope) | Wrap a Socks5 Proxy to restrict connections and adjust DNS requests through it (resolving and /etc/hosts like). | Python |
 
 ## Philosophy
 
